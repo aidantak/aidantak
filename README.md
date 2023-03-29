@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Aidan, a full-stack developer 👨‍💻 Based in Canada and Europe 🚀</div>  
+### <div align="center">Hi, I'm Aidan, a full-stack developer 👨‍💻 Based in Canada and Europe 🚀</div>  
   
 
 - 🔭 I’m currently working on [this project](https://www.travelpals.me/)!  
