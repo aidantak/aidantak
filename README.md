@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Aidan, a full-stack developer 👨‍💻 Based in Canada and Europe 🚀</div>  
   
 
-- 🔭 I’m currently working on [this project](https://www.travelpals.me/)!  
+- 🔭 I’m currently working on [this project](https://travelpals.herokuapp.com/)!  
   
 
 - 🌱 I’m currently learning React, Node.js and PHP  
